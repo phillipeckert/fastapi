@@ -1,6 +1,5 @@
 # https://www.youtube.com/watch?v=0sOvCWFmrtA&t=19950s
-# Youtube Video: 12:05:00
-# 12:03 CRUTIAL how to update all changes to github and Heroku
+# Youtube Video: 13:26:00
 # source venv/bin/activate
 # `uvicorn app.main:app --reload`
 # Last step is that we added environment variables
