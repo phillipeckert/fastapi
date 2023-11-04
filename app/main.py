@@ -32,6 +32,6 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    return {"message": "Mastertask V1"}
+    return {"message": "Mastertask V1!!!"}
 
 
